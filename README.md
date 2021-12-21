@@ -11,3 +11,6 @@ Find the product price which are not between 400 to 600
 
 List the four product which are grater than 500 in price 
 ![Screenshot (74)](https://user-images.githubusercontent.com/91141164/146877616-8647c151-f33e-46d5-beb7-f40a15ce1966.png)
+
+Find the product name and product material of each products
+![Screenshot (75)](https://user-images.githubusercontent.com/91141164/146877745-787ca9ff-7b49-4bad-966e-b8264f6016e6.png)
