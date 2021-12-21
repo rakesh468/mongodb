@@ -18,8 +18,7 @@ Find the product name and product material of each products
 Find the product with a row id of 10
 ![Screenshot (76)](https://user-images.githubusercontent.com/91141164/146877922-c7bcec48-3f25-4c8d-a76f-f3826131d1ed.png)
 
-Find only the product name and product material
-![Screenshot (77)](https://user-images.githubusercontent.com/91141164/146878066-0a0b4674-bc53-45f2-8d05-29ce17d9f2a8.png)
+
 
 Find all products which contain the value of soft in product material 
 ![Screenshot (78)](https://user-images.githubusercontent.com/91141164/146878180-bf6b8813-ae7e-40bb-981e-3fdbef63fcb9.png)
