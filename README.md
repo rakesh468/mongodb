@@ -9,3 +9,5 @@ Find the product price which are between 400 to 800
 Find the product price which are not between 400 to 600
 ![Screenshot (73)](https://user-images.githubusercontent.com/91141164/146877491-8df6a87f-1f8d-4b17-9e50-527188aea950.png)
 
+List the four product which are grater than 500 in price 
+![Screenshot (74)](https://user-images.githubusercontent.com/91141164/146877616-8647c151-f33e-46d5-beb7-f40a15ce1966.png)
