@@ -23,3 +23,6 @@ Find only the product name and product material
 
 Find all products which contain the value of soft in product material 
 ![Screenshot (78)](https://user-images.githubusercontent.com/91141164/146878180-bf6b8813-ae7e-40bb-981e-3fdbef63fcb9.png)
+
+Delete the products which product price value are same
+![Screenshot (79)](https://user-images.githubusercontent.com/91141164/146878346-ed00c066-a2cf-483a-b624-bf1edacb0609.png)
