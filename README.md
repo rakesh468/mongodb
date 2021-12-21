@@ -6,3 +6,6 @@ Find all the information about each products
 Find the product price which are between 400 to 800
 ![Screenshot (72)](https://user-images.githubusercontent.com/91141164/146877299-c29b1bc2-326a-414b-bd4a-b65856c1f93b.png)
 
+Find the product price which are not between 400 to 600
+![Screenshot (73)](https://user-images.githubusercontent.com/91141164/146877491-8df6a87f-1f8d-4b17-9e50-527188aea950.png)
+
