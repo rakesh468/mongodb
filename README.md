@@ -14,3 +14,6 @@ List the four product which are grater than 500 in price
 
 Find the product name and product material of each products
 ![Screenshot (75)](https://user-images.githubusercontent.com/91141164/146877745-787ca9ff-7b49-4bad-966e-b8264f6016e6.png)
+
+Find the product with a row id of 10
+![Screenshot (76)](https://user-images.githubusercontent.com/91141164/146877922-c7bcec48-3f25-4c8d-a76f-f3826131d1ed.png)
